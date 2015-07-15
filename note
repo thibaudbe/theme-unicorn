@@ -1,0 +1,23 @@
+
+### Using Sublime Package Control
+
+If you are using Will Bond's excellent [Sublime Package Control](https://packagecontrol.io/), you can easily install Unicorn Theme via the `Package Control: Install Package` menu item. This Theme package is listed as `Theme - Unicorn` in the packages list.
+
+### Using Git
+
+Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
+
+You can locate your Sublime Text `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
+
+While inside the `Packages` directory, clone the theme repository using the command below:
+
+    git clone https://github.com/thibaudbe/unicorn-theme/ "Theme - Unicorn"
+
+
+## Theme Customisation
+
+Sublime Text provides an elegant way to tweak existing themes without having to duplicate or maintain a separate copy of the original theme. If there are aspects of Unicorn Theme that you would like to adjust, take a look at the [theme customisation](https://github.com/buymeasoda/soda-theme/wiki/Theme-customisation) wiki page.
+
+## Syntax Highlighting Colour Scheme
+
+TODO
