@@ -9,6 +9,7 @@ Inspired by
 * [Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray) 
 * ... and [Dark UI for Atom](https://github.com/atom/one-dark-ui) ;)
  
+Scheme Editor by [tmTheme](http://tmtheme-editor.herokuapp.com/).
 
 Project site: [https://github.com/thibaudbe/unicorn-theme](https://github.com/thibaudbe/unicorn-theme)
 
