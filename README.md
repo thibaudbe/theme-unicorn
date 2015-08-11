@@ -1,3 +1,9 @@
+# unicorn
+
+A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying [Base16](https://github.com/chriskempson/base16) color schemes.
+
+***
+
 # Unicorn Theme
 
 Dark custom UI theme for Sublime Text 3 optimized for better readability.
@@ -8,7 +14,7 @@ Inspired by
 * [Seti UI](https://packagecontrol.io/packages/Seti_UI) 
 * [Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray) 
 * ... and [Dark UI for Atom](https://github.com/atom/one-dark-ui) ;)
- 
+
 Scheme Editor by [tmTheme](http://tmtheme-editor.herokuapp.com/).
 
 Project site: [https://github.com/thibaudbe/unicorn-theme](https://github.com/thibaudbe/unicorn-theme)
@@ -37,9 +43,9 @@ To configure Sublime Text to use the theme, follow the instructions below.
 
 **Example Sublime Text User Settings**
 
-    {
-        "theme": "Unicorn.sublime-theme"
-    }
+  {
+    "theme": "Unicorn.sublime-theme"
+  }
 
 ## License
 

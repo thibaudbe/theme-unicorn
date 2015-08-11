@@ -1,18 +1,24 @@
-Thanks for installing Unicorn Theme, a dark custom UI theme for Sublime Text 3 optimized for better readability.
-This theme supports the new Sublime Text 3 icons for file types out of the box!
+Thanks for installing Unicorn!
 
-How to activate?
-================
 
-- Open your User Settings Preferences file:
-    Sublime Text -> Preferences -> Settings - User
-- Add (or update) your theme entry to be:
-    "theme": "Unicorn.sublime-theme"
-- Restart your editor
+How to activate
+===============
 
-For more information visit: https://github.com/Thibaudbe/unicorn-theme
+Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).
 
-Thanks
-======
+Unicorn comes in different flavors, based on DarkOne Atom color schemes. You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.
 
-Unicorn was created and is maintained by Thibaud B. (https://github.com/Thibaudbe).
+*Note: Don't forget to restart Sublime Text after activating the theme.*
+
+
+Unicorn
+---------
+
+*Example settings*
+
+    {
+      "theme": "Unicorn.sublime-theme",
+      "color_scheme": "Packages/Theme - Unicorn/Unicorn.tmTheme"
+    }
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*
