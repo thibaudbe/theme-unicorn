@@ -1,12 +1,12 @@
 # unicorn
 
-A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying [Base16](https://github.com/chriskempson/base16) color schemes.
+A dark flat UI theme with icons for Sublime Text 3.
 
 ***
 
 # Unicorn Theme
 
-Dark custom UI theme for Sublime Text 3 optimized for better readability.
+Dark UI theme for Sublime Text 3 optimized for better readability.
 The theme supports the new Sublime Text 3 icons for file types out of the box!
 
 Inspired by 
